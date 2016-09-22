@@ -3,7 +3,7 @@
 
 <img src="http://i.imgur.com/x189kBb.png" />
 
-For this assignment, you've been hired by the NASA Jet Propulsion Laboratory to create a simple weight calculator using jQuery that would be used by future astronauts to calculate their weight on the surface of the 9 planets (okay, 8 planets and a dwarf!) as well as the moon and the sun of our solar system.
+For this assignment, you've been re-hired by the NASA Jet Propulsion Laboratory to update the virally popular Astro Weight Calculator using jQuery.
 
 ## Tasks
 
