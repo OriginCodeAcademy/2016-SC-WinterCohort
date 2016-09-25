@@ -26,8 +26,8 @@ The San Diego real estate market is an excellent place to invest your extra cash
 7. Also make sure you reference your `index.js` before the `</body>` tag.
 8. Write the following JavaScript in your `index.js` file
    - Create a function that will be called when the user clicks on the `button` element you added to your HTML.
-   - This function should grab the values entered by the user from the `input` elements and the `select` element.
-      - The function should then calculate the monthly payment as follows (we can break this formula into 4 local variable 'buckets' for read-ability):
+   - This function should grab the values entered by the user from the `input` elements and the `select` element and then calculate the monthly payment.
+    - We can break this formula into 4 local variable 'buckets' for read-ability:
         
 4 Local Variables
 
