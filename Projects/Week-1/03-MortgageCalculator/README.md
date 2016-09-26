@@ -47,6 +47,8 @@ The San Diego real estate market is an excellent place to invest your extra cash
         monthlyPayment = loanBalance * interestQuotient;
 
 
+For extra credit, make all input fields required and validate them according to the data type needed. So, for example, the mortgage loan balance field should only accept numeric values and, when the calculate button is clicked, the application should trap the error and prompt the user if they enter a non-numeric value into this field.
+
 ## Turn In Instructions
 * Push your changes to GitHub using `git push origin master`
 * [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-SC-WinterCohort/issues/new?title=MortgageCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20was%20your%20biggest%20struggle%20in%20this%20assignment%3F%0A%0A2.%20What%20was%20your%20biggest%20accomplishment%20in%20this%20assignment%3F)
