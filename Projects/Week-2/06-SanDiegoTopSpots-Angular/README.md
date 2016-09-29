@@ -28,6 +28,7 @@ There are some great places to see in downtown San Diego. In this project you'll
 ## Extras
 - Can you create a form to add new locations to the topspots array?
 - Can you find an Angular plugin to show the locations on a google map?
+- Try updating this project so that it runs locally using the gulfile in the Server Side JavaScript setup in our cohort's Required Tools: https://github.com/OriginCodeAcademy/2016-SC-WinterCohort/tree/master/Notes/Required%20Tools/Server%20Side%20JS%20setup
 
 ## Turn In Instructions
 * Push your changes to GitHub using `git push origin master`
