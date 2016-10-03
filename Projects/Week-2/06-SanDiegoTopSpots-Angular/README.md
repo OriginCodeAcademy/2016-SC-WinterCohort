@@ -15,8 +15,8 @@ There are some great places to see in downtown San Diego. In this project you'll
 6. Create an HTML `table` structure with the headers you see in the image above.
 7. Also make sure you reference your `index.js` before the closing `</body>` tag.
 8. Add the following to your index.html file
-	- an ng-app directive in the <html> tag.
-	- an ng-controller directive in the <body> tag.
+	- an ng-app directive in the `<html>` tag.
+	- an ng-controller directive in the `<body>` tag.
 	- an ng-repeat directive to generate the rows of Top Spots data
 9. Write the following JavaScript in your `index.js` file
 	- Create an Angular module.
