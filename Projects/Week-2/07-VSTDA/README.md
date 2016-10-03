@@ -24,7 +24,7 @@ The app will then allow users to sort their todo items based on the priority, or
 ## Extras
 With any project, you are free to add any extras once you have satisfied the base requirements. Here are some suggestions:
 
-- Can you find a third party Angular library that allows users to reorder todo items by dragging and dropping?
+- Can you find a third party Angular library (such as ui-sortable) that allows users to reorder todo items by dragging and dropping?
 
 ## Turn In Instructions
 * Push your changes to GitHub using `git push origin master`
