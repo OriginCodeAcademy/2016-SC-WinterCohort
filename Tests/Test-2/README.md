@@ -1,19 +1,25 @@
-#### 2016-SC-WinterCohort
+## 2016-SC-WinterCohort
 
-### Code Test #2
+## Code Test #2
 
-## Write JavaScript programs to complete the following tasks.
+## Tasks
+1. Create a folder named `CodeTest-2` in your `dev` folder.
+2. Setup your Git workflow.
+  - Initialize an empty git repository in `CodeTest-2` by running `git init` in the command prompt.
+  - Create a repository on GitHub called `CodeTest-2` and follow the instructions to add a remote origin.
+
+### Write JavaScript statements to complete the following tasks.
 
 1.  Display the current day and time with the following format:  Today is Sunday. The current time is 9 AM : 50 : 22
-2.  Find the area of a triangle where lengths of the three sides are 5, 7, 8.
-3.  Scroll the string 'Origin Code Academy Rocks! ' from left to right by periodically (every 100 miliseconds) removing one letter from the end of the string and attaching it to the front. 
-4.  You are on a business trip and travelling from one city to another. You have a stack of unsorted flight boarding passes, with only the departure city and the destination city on the boarding pass. How do you find the first departure city and your final destination city? Write the solution in JavaScript.
-5. A bubble sort, sometimes referred to as a sinking sort, is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted and comparing each pair of adjacent items and then swapping them if they are in the wrong order. 
+
+2.  Scroll the string 'Origin Code Academy Rocks! ' from left to right by periodically (every 100 miliseconds) removing one letter from the end of the string and attaching it to the front. 
+
+3. A bubble sort, sometimes referred to as a sinking sort, is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order. 
 Array: [12, 345, 4, 546, 122, 84, 98, 64, 9, 1, 3223, 455, 23, 234, 213]
 Expected output : [3223, 546, 455, 345, 234, 213, 122, 98, 84, 64, 23, 12, 9, 4, 1]
+Output the bubble-sorted result using a console.log statement.
 
-
-## Write HTML and jQuery statements to complete the following tasks.
+### Write HTML and jQuery statements to complete the following tasks.
 
 1.  Given:
 ```
@@ -36,17 +42,8 @@ Expected output : [3223, 546, 455, 345, 234, 213, 122, 98, 84, 64, 23, 12, 9, 4,
  	Attach a click and a double-click event to the <p> element. For single click append the following paragraph: 
 	<p>This is a click event</p> For double-click append the following paragraph: <p>This is a double-click event</p>
 
-3. Given: 
-```	
-	<body>
- 	  <h1>Heading-1</h1>
- 	  <h2>Heading-2</h2>
- 	  <h3>Heading-3</h3>>
- 	</body>
-```
-	Slide and hide each heading on the page when they are clicked.
 
-4. Given:
+3. Given:
 ```
 	<body>
 		<div style="background-color:red"> 
@@ -57,10 +54,9 @@ Expected output : [3223, 546, 455, 345, 234, 213, 122, 98, 84, 64, 23, 12, 9, 4,
 ```
 	Change the background color of the div when the button is clicked.
 
-5. 	Add a slow fade out to a div with the id "myElement".
 
 
-## Provide answers to the following AngularJS questions.
+### Provide answers to the following AngularJS questions. Submit the questions and your answers on a simple HTML page.
 
 1. How do you define an AngularJS application?
 
