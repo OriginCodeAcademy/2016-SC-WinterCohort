@@ -21,7 +21,7 @@ Output the bubble-sorted result using a console.log statement.
 
 ### Write HTML and jQuery statements to complete the following tasks.
 
-1.  Given:
+* Given:
 ```
 	<body>
 	  <p>Beach Towel</p>
@@ -32,7 +32,7 @@ Output the bubble-sorted result using a console.log statement.
 ```
 	Make the first word of each element bold
 
-2. Given:
+* Given:
 ```
  	<body>
  	  <p>Click Me!</p>
@@ -43,7 +43,7 @@ Output the bubble-sorted result using a console.log statement.
 	<p>This is a click event</p> For double-click append the following paragraph: <p>This is a double-click event</p>
 
 
-3. Given:
+* Given:
 ```
 	<body>
 		<div style="background-color:red"> 
