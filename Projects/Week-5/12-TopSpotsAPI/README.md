@@ -29,10 +29,13 @@ You must also make sure that your API returns the JSON in camelCase format (the 
 8. Create a `TopSpot` class in your Models folder, add the necessary properties of a Top Spot.
 9. Create an Action that returns `IEnumerable<TopSpot>`. This Action should read and deserialize the JSON file of top spots into a C# object array, then return the array to end the method.
 10. Test your API using Postman
-11. Modify your Angular application to call your new API instead of reading from the file system.
+11. Clone and modify your Angular application to call your new API instead of reading from the file system.
 
 ## Extras
-- Can you implement a POST action to add new top spots? This will involve reading the JSON from the file system, adding a TopSpot and then saving the array back to the file system.
+- Implement the rest of the HTTP Verbs (POST, PUT and DELETE).
+	- `POST` will involve reading the JSON from the file system, adding a TopSpot object to the end of the array and then saving the array back to the file system.
+	- `PUT` will involve reading the JSON from the file system, finding the TopSpot to be updated, modifying those properties, then saving the array back to the file system.
+	- `DELETE` will involve reading the JSON from the file system, finding the TopSpot to be deleted, removing it from the array, then saving the array back to the file system.
 
 ## Turn in instructions
 * Push your changes to GitHub 
