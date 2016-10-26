@@ -9,7 +9,7 @@ The solution contains a test project with already populated tests that you can u
 ## Tasks
 
 * You should make sure you have the `NORTHWND` database in your SQL Server instance.
-* Fork and Clone the [LINQExercises](https://github.com/OriginCodeAcademy/2016-SC-WinterCohort/tree/master/Example%20Projects/linq-exercises) repository.
+* Fork and Clone the [LINQExercises](https://github.com/cameronoca/linq-exercises) repository.
 * Open the Controllers folder in LinqExercises.Test and explore the pre-written tests.
 * Open the Controllers folder in LinqExercises and explore the pre-written method shells.
 * Your task is to implement these method shells using LINQ.
