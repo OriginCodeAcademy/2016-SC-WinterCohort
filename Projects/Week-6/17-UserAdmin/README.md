@@ -57,18 +57,18 @@ DateCreated
 ```
 
 ## The Many-to-Many Relationship
-`A user can have many roles`, and `a role can have many students`
+`A User can have many Roles`, and `a Role can have many Users`
 Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appearing in more than one row of the table, with each row corresponding to the particular role assigned to him. Likewise, you may find the same RoleId appearing in more than one row of the table, with each row corresponding to a different user who has been assigned to that particular role. The important thing to consider and allow for in your code, is that you must prevent duplicate rows from being created that contain the same UserId and RoleId combination.
 
 ## Screenshots
 **Top Nav**<br />
-<img src="http://i.imgur.com/a/HLG5H.png" alt="">
+<img src="http://i.imgur.com/hnSuG30.png" alt="">
 
 **Role Manager Screen**<br />
-<img src="http://i.imgur.com/a/BfejN.png" alt="">
+<img src="http://i.imgur.com/x4usNVn.png" alt="">
 
 **User Role Manager Screen**<br />
-<img src="http://i.imgur.com/a/grb5D.png" alt="">
+<img src="http://i.imgur.com/v2hFsUc.png" alt="">
 
 **User Registration Screen**<br />
 <img src="http://i.imgur.com/AJbDuFm.png" alt="">
