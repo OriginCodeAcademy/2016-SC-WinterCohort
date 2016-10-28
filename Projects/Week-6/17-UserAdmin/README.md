@@ -79,7 +79,7 @@ Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appea
 * Add a login screen to your project to prevent unregistered users from accessing the site. If a user fails login, prompt them to register using the link to the registration form.
 
 **Login Screen**<br />
-<img src="http://i.imgur.com/a/RpdqP.png" alt="">
+<img src="http://i.imgur.com/0VEsRoR.png" alt="">
 
 * Add a 3-month time limit on password use, and enforce it by doing a check on the creation date of the password.
 
