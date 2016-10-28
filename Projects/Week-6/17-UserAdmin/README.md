@@ -76,7 +76,7 @@ Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appea
 
 ## Extra Credit
 
-* Add a login screen to your project to prevent unregistered users from accessing the site. If a user fails login, prompt them to register using the link to the registration form.
+* Add a login screen to your project to prevent unregistered users from accessing the site. If a user fails login, prompt them to register using the link to the registration form. Upon successful registration, redirect the user to the login form so they can authenticate.
 
 **Login Screen**<br />
 <img src="http://i.imgur.com/0VEsRoR.png" alt="">
