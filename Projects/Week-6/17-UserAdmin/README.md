@@ -68,7 +68,7 @@ Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appea
 <img src="http://i.imgur.com/0qJpBpN.png" alt="">
 
 **User Role Manager Screen**<br />
-<img src="http://i.imgur.com/v2hFsUc.png" alt="">
+<img src="http://i.imgur.com/9wo42C3.png" alt="">
 
 **User Registration Screen**<br />
 <img src="http://i.imgur.com/AJbDuFm.png" alt="">
@@ -76,7 +76,9 @@ Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appea
 
 ## Extra Credit
 
-* Add a login screen to your project to prevent unregistered users from accessing the site. If a user fails login, prompt them to register using the link to the registration form. Upon successful registration, redirect the user to the login form so they can authenticate.
+* Add a login screen to your project to prevent unregistered users from accessing the site. When a user logs in, check his roles in the UserRole table as well. If a user fails login, prompt him to register using a link to the registration form. Upon successful registration, redirect the user to the login form so they can authenticate.
+
+* Upon successful authentication and authorization, place the user's login name, a timestamp of his login and a list of his assigned roles in an object named, 'userSession' and then add it to local storage. See how to implement local storage on the angular-local-storage GitHub repo: [angular-local-storage](https://github.com/grevory/angular-local-storage). 
 
 **Login Screen**<br />
 <img src="http://i.imgur.com/0VEsRoR.png" alt="">
