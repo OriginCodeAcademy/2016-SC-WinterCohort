@@ -65,7 +65,7 @@ Therefore, in the UserRole 'crosswalk' table, you may find the same UserId appea
 <img src="http://i.imgur.com/hnSuG30.png" alt="">
 
 **Role Manager Screen**<br />
-<img src="http://i.imgur.com/x4usNVn.png" alt="">
+<img src="http://i.imgur.com/0qJpBpN.png" alt="">
 
 **User Role Manager Screen**<br />
 <img src="http://i.imgur.com/v2hFsUc.png" alt="">
